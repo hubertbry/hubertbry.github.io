@@ -1,3 +1,0 @@
-Hubert Brychczyński
-- Polski
-- English
