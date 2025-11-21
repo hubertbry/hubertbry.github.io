@@ -27,9 +27,9 @@ entries:
     url: feed.xml
 
   - title: theme by riggraz
-  entries:
-    - title: no-style-please 
-      url: https://riggraz.dev/no-style-please/
+    entries:
+      - title: no-style-please 
+        url: https://riggraz.dev/no-style-please/
   
 #  - title: another list
 #    entries:
