@@ -26,7 +26,7 @@ entries:
   - title: rss
     url: feed.xml
 
-  - title: theme by riggraz
+  - title: theme:
     entries:
       - title: <a href="https://riggraz.dev/no-style-please/" target="_blank">no-style-please</a> by riggraz
 #        url: https://riggraz.dev/no-style-please/
